@@ -18,4 +18,5 @@ window.onload = function(){
     loadScript('js/templateStrings.js')
     loadScript('js/objectLiteralEnhancements.js')
     loadScript('js/newStringMethods.js')
+    loadScript('js/arrowFunctions.js')
 }
