@@ -1,4 +1,4 @@
-console.log('######## 2 ########')
+console.log('######## 2 - Let Keyword ########')
 console.log("Click a <li>");
 /*
 var x = 10;

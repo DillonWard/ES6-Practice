@@ -1,4 +1,4 @@
-console.log('######## 1 ########')
+console.log('######## 1 - Constants ########')
 
 
 // define a constant - a constant is a value that cannot be changed
