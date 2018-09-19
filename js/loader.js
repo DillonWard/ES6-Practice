@@ -17,4 +17,5 @@ window.onload = function(){
     loadScript('js/spreadOperator.js')
     loadScript('js/templateStrings.js')
     loadScript('js/objectLiteralEnhancements.js')
+    loadScript('js/newStringMethods.js')
 }
