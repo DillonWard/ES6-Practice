@@ -1,3 +1,4 @@
+
 function loadScript(url)
 {    
     var head = document.getElementsByTagName('head')[0];
@@ -7,4 +8,8 @@ function loadScript(url)
     head.appendChild(script);
 }
 
-loadScript('js/constants.js')
+
+window.onload = function(){
+    loadScript('js/constants.js')
+    loadScript('js/let.js')
+}
