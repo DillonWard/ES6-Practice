@@ -20,4 +20,5 @@ window.onload = function(){
     loadScript('newStringMethods.js')
     loadScript('arrowFunctions.js')
     loadScript('sets.js')
+    loadScript('generators.js')
 }
