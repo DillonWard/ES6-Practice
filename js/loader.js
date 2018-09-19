@@ -14,4 +14,5 @@ window.onload = function(){
     loadScript('js/constants.js')
     loadScript('js/let.js')
     loadScript('js/defaultParameters.js')
+    loadScript('js/spreadOperator.js')
 }
